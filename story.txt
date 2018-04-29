@@ -2,3 +2,5 @@ this little piggy went to the market
 this little piggy stayed /Home
 this little piggy learned how to use git
 this little piggy became a web developer
+this little piggy got a sweet job at apple
+this little piggy had no free time because he had a job at apple
